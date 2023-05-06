@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://codepen.io/amarjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amarjeet" height="30" width="40" /></a>
 <a href="https://dev.to/123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="123" height="30" width="40" /></a>
-<a href="https://twitter.com/def" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="def" height="30" width="40" /></a>
+<a href="https://twitter.com/AmarjeetGhosh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="def" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
