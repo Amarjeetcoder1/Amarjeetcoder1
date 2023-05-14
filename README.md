@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amarjeet Ghosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abc&label=Profile%20views&color=0e75b6&style=flat" alt="abc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amarjeetcoder1&label=Profile%20views&color=0e75b6&style=flat" alt="Amarjeetcoder1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abc" alt="abc" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amarjeetcoder1" alt="Amarjeetcoder1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/def" target="blank"><img src="https://img.shields.io/twitter/follow/def?logo=twitter&style=for-the-badge" alt="def" /></a> </p>
 
