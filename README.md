@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amarjeet Ghosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80">
+<img src="https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80" alt="MasterHead" data-canonical-src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" style="max-width: 100%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amarjeetcoder1&label=Profile%20views&color=0e75b6&style=flat" alt="Amarjeetcoder1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amarjeetcoder1" alt="Amarjeetcoder1" /></a> </p>
