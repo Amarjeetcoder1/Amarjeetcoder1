@@ -32,4 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amarjeetcoder1&show_icons=true&locale=en&layout=compact" alt="Amarjeetcoder1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amarjeetcoder1&show_icons=true&locale=en" alt="Amarjeetcoder1" />
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=Amarjeetcoder1&theme=dark" alt="Amarjeetcoder1" />
+<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=Amarjeetcoder1&theme=darkl&card_width=320" alt="Amarjeetcoder1" />
