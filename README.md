@@ -32,4 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amarjeetcoder1&show_icons=true&locale=en&layout=compact" alt="Amarjeetcoder1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amarjeetcoder1&show_icons=true&locale=en" alt="Amarjeetcoder1" />
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amarjeetcoder1&" alt="Amarjeetcoder1" /></p>
