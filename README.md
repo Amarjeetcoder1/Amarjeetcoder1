@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/def" target="blank"><img src="https://img.shields.io/twitter/follow/def?logo=twitter&style=for-the-badge" alt="def" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **HTML, CSS, C, C++**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, C, C++**
 
 - 📫 How to reach me **2105689@kiit.ac.in**
 
